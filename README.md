@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haythamnikolaidis
 - 👀 I’m interested in how technology can change our lives (for better or worse)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [Kotlin](https://kotlinlang.org/) and relearning C++
-- 💞️ I’m looking to collaborate on anything open sorce and free.
+- 💞️ I’m looking to collaborate on anything open source and free.
 - 📫 How to reach me ...
 
 <!---
